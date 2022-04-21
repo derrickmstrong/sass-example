@@ -47,7 +47,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <!-- <li><a href="#prerequisites">Prerequisites</a></li> -->
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -95,13 +95,13 @@ This is a re-education on Sass (partials, variables, mixins and more) used to bu
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+<!-- ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To begin, be sure you have the latest version of npm.
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 ### Installation
 
@@ -110,10 +110,10 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/derrickmstrong/sass-example.git
    ```
-2. Install NPM packages
+<!-- 2. Install NPM packages
    ```sh
    npm install
-   ```
+   ``` -->
 <!-- 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
