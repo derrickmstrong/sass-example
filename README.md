@@ -13,13 +13,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/derrickmstrong/sass-example">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
+    <img src="./images/screenshot.png" alt="Screenshot" width="75%">
   </a>
 
 <h2 align="center">Sass-Example</h2>
 
   <p align="center">
-    This is a re-education on Sass (partials, variables, mixins and more). 
+    This is a re-education on Sass (partials, variables, mixins and more) used to build a responsive website. 
     <br />
     <a href="https://github.com/derrickmstrong/sass-example"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,10 +64,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a re-education on Sass (partials, variables, mixins and more).
+This is a re-education on Sass (partials, variables, mixins and more) used to build a responsive website.
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
- <!-- `derrickmstrong`, `sass-example`, `dmstr0ng`, `derrickmstrong`, `gmail`, `derrickmstrong`, `Sass-Example`, `This is a re-education on Sass (partials, variables, mixins and more). ` -->
+ <!-- `derrickmstrong`, `sass-example`, `dmstr0ng`, `derrickmstrong`, `gmail`, `derrickmstrong`, `Sass-Example`, `This is a re-education on Sass (partials, variables, mixins and more) used to build a responsive website. ` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
