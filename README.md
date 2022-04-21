@@ -24,7 +24,7 @@
     <a href="https://github.com/derrickmstrong/sass-example"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://keepitsassy.netlify.app/">View Demo</a>
+    <a href="https://keepitsassy.netlify.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/derrickmstrong/sass-example/issues">Report Bug</a>
     ·
@@ -170,7 +170,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+<!-- Distributed under the MIT License. -->
+ See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
