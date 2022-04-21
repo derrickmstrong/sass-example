@@ -4,18 +4,17 @@
   grid-template-rows: auto auto;
   gap: 40px;
   // Set max width for large screens
-  width: min(100%, 1000px); // Optionally, max-width: 1000px;
+  width: min(100% - 40px, 1000px); // Optionally, max-width: 1000px; padding: 0 20px; Meaning on mobile I want 100% minus 20px for padding on left and right; on desktop I want 1000px max-width therefore, no need to counter the padding in the desktop media query
   // Center content for large screens
   margin-inline: auto; // Optionally, margin: 0 auto;
   // Add left and right padding to mobile view
-  padding: 0 20px;
 
   // Breakpoint for desktop
   @media (min-width: 900px) {
       grid-template-columns: 2fr 1fr;
       grid-template-rows: auto;
       // Removing left and right padding from desktop view so max width remains 1000px
-      padding: 0;
+      // padding: 0; No longer needed because the padding from width: min(100% - 40px, 1000px) only applies to mobile styles up to 899px
   }
 
   &__main,
