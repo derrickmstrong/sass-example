@@ -3,11 +3,19 @@
   grid-template-columns: 1fr;
   grid-template-rows: auto auto;
   gap: 40px;
+  // Set max width for large screens
+  width: min(100%, 1000px); // Optionally, max-width: 1000px;
+  // Center content for large screens
+  margin-inline: auto; // Optionally, margin: 0 auto;
+  // Add left and right padding to mobile view
+  padding: 0 20px;
 
   // Breakpoint for desktop
   @media (min-width: 900px) {
       grid-template-columns: 2fr 1fr;
       grid-template-rows: auto;
+      // Removing left and right padding from desktop view so max width remains 1000px
+      padding: 0;
   }
 
   &__main,
